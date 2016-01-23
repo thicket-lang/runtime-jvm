@@ -1,6 +1,6 @@
 # Thicket JVM Runtime
 
-Thicket runtime implementation in Java.
+Thicket runtime implementation in Java and Nashhorn
 
 # License
 
